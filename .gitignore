@@ -1,0 +1,18 @@
+#ignore files in gitignore
+
+
+### main folder
+.DS_Store
+
+
+### src folder: no conda/git
+src/conda_env/*
+src/git_repo/*
+
+
+### local test
+local_test/*
+
+
+
+
